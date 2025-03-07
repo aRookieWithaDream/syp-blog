@@ -22,24 +22,24 @@ actions:
 #    bgImage: /assets/bg/6-light.svg
 #    bgImageDark: /assets/bg/6-dark.svg
 #    features:
-#      - title: 公众号 - 抽奖系统
+#      - title: 抽奖系统
 #        icon: comment-dots
-#        details: 23年1月，以DDD领域驱动设计架构，开发完成分布式抽奖系统。运用了全面的分布式技术栈。
+#        details: 2024年完成高并发抽奖系统研发，基于DDD和微服务架构，运用分布式锁及消息队列保障高可用，支撑高并发场景，提高用户参与度。
 #        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
 #
-#      - title: 手写 MyBatis
+#      - title: 云课堂
 #        icon: box-archive
-#        details: 23年4月，深度学习《手写MyBatis：渐进式源码实践》一书，完整实现了一个 MyBatis ORM 框架。
+#        details: 2024年完成在线学习平台设计，基于微服务架构实现教育社交电商一体化，运用Zset/Hash/BitMap优化数据存储，通过CAS分布式锁保障超卖防控，设计千万级优惠券系统。
 #        link: https://theme-hope.vuejs.press/zh/guide/markdown/container.html
 #
-#      - title: OpenAI 应用服务
+#      - title: ZDB-Router
 #        icon: table-columns
-#        details: 23年8月，学习 OpenAi 技术，学习 OpenAi SDK 开发，完成应用场景的对接使用「涵盖支付对接」。
+#        details: 2024年完成ZDB-Router研发，基于AOP+AbstractRoutingDataSource实现动态路由，集成MyBatisPlugin优化SQL拦截，采用哈希算法保障数据均匀分布，散列效果显著提升。
 #        link: https://theme-hope.vuejs.press/zh/guide/markdown/tabs.html
 #        
-#      - title: SpringBoot Stater
+#      - title: 快短链
 #        icon: table-columns
-#        details: 23年10月，通过对业务项目开发中的学习，对同类共性功能的重复开发，凝练成通用的服务治理组件。
+#        details: 2023年完成快短链平台开发，基于SpringCloudAlibaba架构，集成RabbitMQ削峰、布隆过滤器、Redis双锁及Sentinel限流，实现千万级请求下的高并发短链服务，链路稳定性达99%+。
 #        link: https://theme-hope.vuejs.press/zh/guide/markdown/tabs.html
 
 copyright: false

@@ -57,7 +57,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="_2-手写-mybatis" tabindex="-1"><a class="header-anchor" href="#_2-手写-mybatis" aria-hidden="true">#</a> 2. 手写 MyBatis</h3>
+<h3 id="_2-手写-mybatis" tabindex="-1"><a class="header-anchor" href="#_2-手写-mybatis" aria-hidden="true">#</a> 2. 云课堂</h3>
 <ul>
 <li>项目架构：Object Relational Mapping</li>
 <li>项目描述：MyBatis 是 Java 应用编程开发中，非常常用的技术框架。需要较深入的学习和使用，具备 MyBatis 插件开发能力，解决日常场景问题。才能更好更高效的工作。为此，深度学习了《手写MyBatis：渐进式源码实践》一书，完整实现了一个 MyBatis ORM 框架。技术积累颇深，提高了设计思维和编码能力。</li>
@@ -70,7 +70,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="_3-openai-应用服务-辅助工作提效工具开发" tabindex="-1"><a class="header-anchor" href="#_3-openai-应用服务-辅助工作提效工具开发" aria-hidden="true">#</a> 3. OpenAI 应用服务 - 辅助工作提效工具开发</h3>
+<h3 id="_3-openai-应用服务-辅助工作提效工具开发" tabindex="-1"><a class="header-anchor" href="#_3-openai-应用服务-辅助工作提效工具开发" aria-hidden="true">#</a> 3. ZDB-Router - 辅助工作提效工具开发</h3>
 <ul>
 <li>项目架构：微服务架构设计，OpenAI-SDK 多模型组件【ChatGLM、ChatGPT】、DDD 应用服务API封装、WEB REACT 前端界面【按需编写】</li>
 <li>核心技术：SpringBoot、MyBatis、Redis/Guava、OKHttp3、OpenAI 大模型【可对接ChatGLM、腾讯混元等】、React、TypeScript</li>
