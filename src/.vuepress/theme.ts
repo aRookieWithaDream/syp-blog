@@ -18,12 +18,6 @@ export default hopeTheme({
 
   docsDir: "src",
 
-  // navbar
-  navbar,
-
-  // sidebar
-  sidebar,
-
   footer: "我的微信：sypggs",
 
   displayFooter: true,
