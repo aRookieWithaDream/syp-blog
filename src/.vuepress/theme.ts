@@ -24,7 +24,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "我的微信：fustack",
+  footer: "我的微信：sypggs",
 
   displayFooter: true,
 
